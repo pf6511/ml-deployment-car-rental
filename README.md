@@ -1,4 +1,4 @@
-# jedha_dts_getaround
+# ml-deployment-getaround
 getaround (Jedha Deployment project)
 
 # Getaround modules
